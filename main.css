@@ -223,6 +223,7 @@ abbr {
 	color: #888888;
 }
 var, kbd, samp, code, pre {
+	
 	font-family: Consolas, "Andale Mono", Courier, "Courier New", monospace;
 }
 pre {
